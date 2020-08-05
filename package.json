@@ -21,7 +21,7 @@
   "homepage": "https://github.com/eyemt/tickets#readme",
   "dependencies": {
     "@matteo.collina/fastify-auth-mongo-jwt": "^0.2.0",
-    "fastify": "^2.6.0",
+    "fastify": "^2.15.1",
     "fastify-autoload": "^1.0.0",
     "fastify-cli": "^1.0.0",
     "fastify-mongodb": "^1.0.1",
